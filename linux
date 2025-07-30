@@ -1,0 +1,5 @@
+public: The method is accessible from any other class.
+static: The method belongs to the HelloWorld class itself, not to any specific instance of the class.
+void: The method does not return any value.
+main: This is the standard name for the entry point method.
+String[] args: This represents an array of strings that can be used to pass command-line arguments to the program.
